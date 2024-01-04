@@ -1,0 +1,13 @@
+Jika ada 8 kelereng dengan berat masing-masing 100 gram untuk 7 kelereng dan 125 gram untuk
+1 kelereng. Bagaimanakah caranya mendapatkan 1 kelereng yang paling berat tersebut dari total
+8 kelereng dengan menggunakan timbangan neraca dua lengan maksimal dengan 2 kali proses
+menimbang saja?
+
+Jawaban paling sederhana dari soal ini adalah
+
+1. dengan membagi kerang menjadi 2 masing-masing 4 dan menimbangnya
+2. setelah di timbang kita akan mendapatkan 1 group berisi 4 kelereng yang paling berat
+3. setelah itu kita kembali membagi lagi menjadi 2-2 untuk ditimbang di group yg sebelumnya paling berat
+4. setelah itu kita akan mendapatkan 1(satu) group yg berisi 2 kelereng, dari sini kita bisa mendapatkan yg paling berat
+secara fisik dikarenakan 1 kelereng yg paling berat berisi 125gram dibanding 100gram kelereng normal sehingga dikarenakan
+lebih berat 25% kita bisa mengetahui mana yg paling berat diantara kelereng ini.
