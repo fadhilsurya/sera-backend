@@ -7,9 +7,6 @@ import {
     DeleteUser,
 } from '../repo/user.repo'; 
 
-// we still encounter issue somehow when npm run it cannot read .ts file
-// but as for the base here's the unit test.
-
 describe('User Repository', () => {
     it('should retrieve users based on criteria', async () => {
         const users = await GetUser(0, 10, 'mail@mail.com');
