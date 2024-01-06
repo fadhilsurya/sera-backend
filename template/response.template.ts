@@ -1,33 +1,4 @@
 
-// function Response(code, data, message, error) {
-
-//     return {
-//         Code: code,
-//         Data: data,
-//         Message: message,
-//         Error: error,
-//     }
-
-// }
-
-// function ResponsePagination(code, data, message, page, perpage, total, error) {
-//     return {
-//         Code: code,
-//         Data: data,
-//         Message: message,
-//         Page: page,
-//         PerPage: perpage,
-//         Total: total,
-//         Error: error,
-//     }
-
-// }
-
-// module.exports = {
-//     Response,
-//     ResponsePagination
-// }
-
 interface ResponseData {
     Code: number;
     Data: any;
