@@ -1,6 +1,5 @@
 import express from 'express';
 import dotenv from 'dotenv';
-import { Response } from './template/response.template';
 import { consumeMessages } from './helper/consumer.helper';
 import router from './router/route';
 
