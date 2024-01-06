@@ -1,6 +1,6 @@
 # sera-backend
 
-dont for get to
+DIY HOW TO RUN THE SERVICE
 
 to install dependencies
 
